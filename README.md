@@ -1,8 +1,8 @@
 
 ## Oi! eu sou a Julia Pereira 💜
 
-- 🌱 Aprendendo WordPress e Elementor
-- ⚡ HTML E CSS
+- 🌱 Estudando HTML e CSS
+- ⚡ HTML, CSS, WordPress e Elementor
 - 🌟 Cursando Técnico de Informática no Senac
 
 <div align="center">
