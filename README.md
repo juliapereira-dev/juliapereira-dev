@@ -30,6 +30,9 @@
   <a target="_blank" href="https://www.linkedin.com/in/julia-p-a1a9121bb/" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
+  
+   ![snake gif](https://github.com/juliapereira-dev/juliapereira-dev/blob/output/github-contribution-grid-snake.svg)
+  
 
     
   
