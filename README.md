@@ -1,7 +1,7 @@
 
 ## Oi! eu sou a Julia Pereira 💜
 
-- 🌱 Estudando HTML e CSS
+- 🌱 Estudando JavaScript
 - ⚡ HTML, CSS, WordPress e Elementor
 - 🌟 Cursando Técnico de Informática no Senac
 
