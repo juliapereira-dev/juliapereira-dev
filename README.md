@@ -5,11 +5,6 @@
 - ⚡ HTML, CSS, WordPress e Elementor
 - 🌟 Cursando Técnico de Informática no Senac
 
-<div align="center">
-  <a href="https://github.com/juliapereira-dev">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=juliapereira-dev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliapereira-dev&layout=compact&langs_count=7&theme=jolly"/>
-</div>
  
   ##
   
